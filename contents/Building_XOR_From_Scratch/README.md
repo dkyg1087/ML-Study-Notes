@@ -1,6 +1,6 @@
 # Building XOR From Scratch
 
-![structure](images/Xor_diagram.png)
+![structure](images/result.png)
 
 ## Introduction
 
