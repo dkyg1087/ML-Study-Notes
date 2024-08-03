@@ -9,9 +9,13 @@ Welcome to the **ML Study Notes** repository! This repository is dedicated to ex
 
 ## Getting Started
 
-1. **Explore**: Navigate to the `contents/` directory to find different topics covered in the Medium posts.
+1. **Explore**: Navigate to the `contents/` directory to find different topics covered in the Medium posts or find all the links below.
 2. **Read**: Each post directory contains a `README.md` with specific details about the post's content and usage.
 3. **Code**: Check out the code examples and visualizations within each post directory to see practical applications of the concepts discussed.
+
+## List of Contents
+
+- [Building an XOR Neural Network from Scratch: Learn from the Basics](https://medium.com/@derek246810/building-an-xor-neural-network-from-scratch-learn-from-the-basics-63a2a22495ae)
 
 ## Contact
 

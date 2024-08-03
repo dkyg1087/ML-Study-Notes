@@ -16,4 +16,4 @@ This directory contains:
 
 For a more comprehensive understanding, I encourage you to read the full post on Medium. In this post, we cover the fundamental concepts of neural networks, gradient descent, and backpropagation in detail. We hope that through these code examples, you will gain a clear understanding of how these methods work together to enable a network to learn and accurately replicate the XOR function.
 
-Read the full post on Medium: [Implementing XOR Using Neural Networks](https://medium.com/@derek246810/building-an-xor-neural-network-from-scratch-learn-from-the-basics-63a2a22495ae)
+Read the full post on Medium: [Building an XOR Neural Network from Scratch: Learn from the Basics](https://medium.com/@derek246810/building-an-xor-neural-network-from-scratch-learn-from-the-basics-63a2a22495ae)
