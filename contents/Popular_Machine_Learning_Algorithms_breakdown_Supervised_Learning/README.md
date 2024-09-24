@@ -24,4 +24,4 @@ This directory contains:
 
 For a more comprehensive understanding, I encourage you to read the full post on Medium. In this post, we cover some of the popular supervised learning algorithms and thier implementations using scikit-learn.
 
-Read the full post on Medium: [Popular Machine Learning Algorithms breakdown-Supervised Learning](***)
+Read the full post on Medium: [Popular Machine Learning Algorithms breakdown-Supervised Learning](https://medium.com/@derek246810/popular-machine-learning-algorithms-breakdown-supervised-learning-f1460a8a7ddf)

@@ -16,6 +16,7 @@ Welcome to the **ML Study Notes** repository! This repository is dedicated to ex
 ## List of Contents
 
 - [Building an XOR Neural Network from Scratch: Learn from the Basics](https://medium.com/@derek246810/building-an-xor-neural-network-from-scratch-learn-from-the-basics-63a2a22495ae)
+- [Popular Machine Learning Algorithms breakdown Supervised Learning](https://medium.com/@derek246810/popular-machine-learning-algorithms-breakdown-supervised-learning-f1460a8a7ddf)
 
 ## Contact
 
